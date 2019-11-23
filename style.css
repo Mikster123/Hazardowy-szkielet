@@ -1,0 +1,28 @@
+border {
+    background-color: #ff0000
+}
+
+#pole1,
+#pole2,
+#pole3 {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+img {
+    height: 30vh;
+    max-width: 100%;
+}
+#przycisk{
+    clear: both;
+}
+button{
+    font-size: 110px;
+    background-color:#2700ff
+        
+}
+#ramka{
+    text-align: center;
+    background-color: #ffffff
+}
